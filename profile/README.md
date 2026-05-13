@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=malgun%gothic&stroke=b6d7a8&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Cause&stroke=b6d7a8&fontSize=50" />
 <br>
 
   <tr>
