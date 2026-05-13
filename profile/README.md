@@ -1,11 +1,9 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=nanumgothic&stroke=b6d7a8&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=malgun%gothic&stroke=b6d7a8&fontSize=40" />
 <br>
 
-<!-- 2. 상단 네모 상자: 너비 800px 고정 및 점선 테두리 -->
-<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 25px 0;">
       <font size="20" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
