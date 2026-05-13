@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- border-style: dashed (점선), border-color: 색상코드, border-width: 두께 -->
-<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
+<table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
       <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
@@ -18,7 +17,7 @@
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>대회:</strong> 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
 - <strong>팀:</strong> 독각 (獨覺)<br>
-- <strong>팀장:</strong> 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))<br>
+- <strong>팀장:</strong> 하고은 (<a href="mailto:blueprintbake@gmail.com" style="text-decoration: none; color: #76BA99;"><strong>blueprintbake@gmail.com</strong></a>)<br>
 - <strong>팀원:</strong> 구경선
 </font>
 
@@ -37,7 +36,7 @@
 
 ### 📖 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
-주인공 <strong>베리(Berry)</strong> 는 공룡 친구들의 의뢰를 받아<br>
+주인공 <strong>베리(Berry)</strong>는 공룡 친구들의 의뢰를 받아<br>
 각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
 
 플레이어는 식물을 탐색하고 채집하며<br>
