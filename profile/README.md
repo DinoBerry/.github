@@ -23,6 +23,7 @@
 - <strong>팀장:</strong> 하고은 (<a href="mailto:blueprintbake@gmail.com" style="text-decoration: none; color: #76BA99;"><strong>blueprintbake@gmail.com</strong></a>)<br>
 - <strong>팀원:</strong> 구경선
 </font>
+<br><br>
 
 <h3> 🎮 게임 개요 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -30,12 +31,14 @@
 - <strong>엔진:</strong> Unreal Engine<br>
 - <strong>배경:</strong> 서울식물원
 </font>
+<br><br>
 
 <h3> 🌙 컨셉 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 밤이 되면 깨어나는 공룡들과 함께<br>
 식물에 담긴 추억을 수집하는 힐링 탐험 게임
 </font>
+<br><br>
 
 <h3> 📖 소개 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -48,6 +51,7 @@
 수집한 식물과 이야기는<br>
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
 </font>
+<br><br>
 
 <h3> ✨ 특징 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -56,6 +60,7 @@
 - 다이어리 커스터마이징<br>
 - 실제 식물 기반 도감 콘텐츠
 </font>
+<br><br>
 
 <h3> 🎯 한 줄 소개 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
