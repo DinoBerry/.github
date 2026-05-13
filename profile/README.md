@@ -1,15 +1,19 @@
 <div align="center">
 
-<!-- 1. Blur 헤더 (Dino Berry) -->
+<!-- 1. Blur 헤더 (Dino Berry) - 공백 처리 수정 완료 -->
 <img src="https://capsule-render.vercel.app/render?type=blur&text=Dino%20Berry&fontSize=70&color=76BA99&fontColor=ffffff" width="100%"/>
 
 <br>
 
-<table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
+<!-- 2. 상단 네모 상자: 투명 이미지를 넣어 너비를 강제로 고정 -->
+<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
-      <font size="15" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
-      <font size="15" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry  다이노 베리</strong></font>
+      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
+      <br>
+      <!-- 상자 너비를 고정하기 위한 투명 가로 바 -->
+      <img src="https://via.placeholder.com/800x1/ffffff/000000?text=+" style="display: block; opacity: 0;">
     </td>
   </tr>
 </table>
@@ -17,6 +21,7 @@
 </div>
 
 <br>
+
 
 ### 📌 프로젝트
 <font face="nanumgothic, malgun gothic, sans-serif">
