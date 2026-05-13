@@ -1,10 +1,10 @@
 <div align="center">
 
-<table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
+<table style="width: 100%; min-width: 800px; border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
-      <font size="10" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
-      <font size="10" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
+      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
   </tr>
 </table>
@@ -21,6 +21,8 @@
 - <strong>팀원:</strong> 구경선
 </font>
 
+<hr style="border: 0; border-top: 2px dashed #76BA99; margin: 20px 0;">
+
 ### 🎮 게임 개요
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>장르:</strong> 힐링 / 수집 / 채집 / 스토리 / 3D<br>
@@ -28,11 +30,15 @@
 - <strong>배경:</strong> 서울식물원
 </font>
 
+<hr style="border: 0; border-top: 2px dashed #76BA99; margin: 20px 0;">
+
 ### 🌙 컨셉
 <font face="nanumgothic, malgun gothic, sans-serif">
 밤이 되면 깨어나는 공룡들과 함께<br>
 식물에 담긴 추억을 수집하는 힐링 탐험 게임
 </font>
+
+<hr style="border: 0; border-top: 2px dashed #76BA99; margin: 20px 0;">
 
 ### 📖 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -40,11 +46,13 @@
 각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
 
 플레이어는 식물을 탐색하고 채집하며<br>
-그 안에 담긴 이야기를 수집하게 됩니다.<br>
+그 안에 담긴 이야기를 수집하게 됩니다.<br><br>
 
 수집한 식물과 이야기는<br>
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
 </font>
+
+<hr style="border: 0; border-top: 2px dashed #76BA99; margin: 20px 0;">
 
 ### ✨ 특징
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -53,6 +61,8 @@
 - 다이어리 커스터마이징<br>
 - 실제 식물 기반 도감 콘텐츠
 </font>
+
+<hr style="border: 0; border-top: 2px dashed #76BA99; margin: 20px 0;">
 
 ### 🎯 한 줄 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
