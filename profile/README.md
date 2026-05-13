@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Helvetica%Neue&stroke=b6d7a8&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Roboto&stroke=b6d7a8&fontSize=50" />
 <br>
 
   <tr>
@@ -56,8 +56,6 @@
 - 다이어리 커스터마이징<br>
 - 실제 식물 기반 도감 콘텐츠
 </font>
-
-<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 <h3> 🎯 한 줄 소개 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
