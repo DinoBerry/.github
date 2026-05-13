@@ -1,6 +1,6 @@
 <div align="center">
 
-<table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
+<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
       <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
