@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- 1. Blur 헤더 (Dino Berry) -->
+<img src="https://capsule-render.vercel.app/render?type=blur&text=Dino%20Berry&fontSize=70&color=76BA99&fontColor=ffffff" width="100%"/>
+
+<br>
+
 <table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
