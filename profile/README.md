@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Cause&stroke=b6d7a8&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Segoe%UI&stroke=b6d7a8&fontSize=50" />
 <br>
 
   <tr>
@@ -16,7 +16,7 @@
 <br>
 
 
-### 📌 프로젝트
+<h2> 📌 프로젝트 </h2>
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>대회:</strong> 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
 - <strong>팀:</strong> 독각 (獨覺)<br>
