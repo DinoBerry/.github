@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- 1. 상단 박스: 너비를 강제로 넓히기 위해 투명 이미지를 양옆에 배치 -->
-<table width="800" style="border: 3px dashed #76BA99;">
+<!-- 1. 상자 너비: width="800"으로 고정하고 스타일 적용 -->
+<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding: 30px;">
+    <td align="center" style="padding: 30px 0;">
       <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
       <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
@@ -22,9 +22,8 @@
 - <strong>팀원:</strong> 구경선
 </font>
 
-<br>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=76BA99&height=3&section=header" width="100%"/>
-<br>
+<!-- 점선 구분선: hr 대신 div 사용 -->
+<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 ### 🎮 게임 개요
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -33,9 +32,7 @@
 - <strong>배경:</strong> 서울식물원
 </font>
 
-<br>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=76BA99&height=3&section=header" width="100%"/>
-<br>
+<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 ### 🌙 컨셉
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -43,9 +40,7 @@
 식물에 담긴 추억을 수집하는 힐링 탐험 게임
 </font>
 
-<br>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=76BA99&height=3&section=header" width="100%"/>
-<br>
+<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 ### 📖 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -59,9 +54,7 @@
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
 </font>
 
-<br>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=76BA99&height=3&section=header" width="100%"/>
-<br>
+<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 ### ✨ 특징
 <font face="nanumgothic, malgun gothic, sans-serif">
@@ -71,9 +64,7 @@
 - 실제 식물 기반 도감 콘텐츠
 </font>
 
-<br>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=76BA99&height=3&section=header" width="100%"/>
-<br>
+<div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
 ### 🎯 한 줄 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
