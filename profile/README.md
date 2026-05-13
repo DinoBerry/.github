@@ -5,7 +5,7 @@
 <br>
 
   <tr>
-    <td align="center" style="padding: 25px 0;">
+    <td align="center" style="padding: 50px 0;">
       <font size="20" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
     </td>
   </tr>
