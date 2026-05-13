@@ -9,10 +9,8 @@
 <table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 25px 0;">
-      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
-      <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
-      <!-- 너비 확보용 투명 공백 -->
-      <div style="letter-spacing: 500px;">&nbsp;</div>
+      <font size="10" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="10" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
   </tr>
 </table>
