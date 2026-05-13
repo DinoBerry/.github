@@ -1,9 +1,9 @@
 <div align="center">
 
-<table width="100%">
+<table width="150%">
   <tr>
     <td align="center" style="padding: 30px 0;">
-      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="10" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
       <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
   </tr>
@@ -15,17 +15,17 @@
 
 ### 📌 프로젝트
 <font face="nanumgothic, malgun gothic, sans-serif">
-- **대회:** 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
-- **팀:** 독각 (獨覺)<br>
-- **팀장:** 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))<br>
-- **팀원:** 구경선
+- <strong>대회:</strong> 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
+- <strong>팀:</strong>독각 (獨覺)<br>
+- <strong>팀장:</strong> 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))<br>
+- <strong>팀원:</strong> 구경선
 </font>
 
 ### 🎮 게임 개요
 <font face="nanumgothic, malgun gothic, sans-serif">
-- **장르:** 힐링 / 수집 / 채집 / 스토리 / 3D<br>
-- **엔진:** Unreal Engine<br>
-- **배경:** 서울식물원
+- <strong>장르:</strong> 힐링 / 수집 / 채집 / 스토리 / 3D<br>
+- <strong>엔진:</strong> Unreal Engine<br>
+- <strong>배경:<strong> 서울식물원
 </font>
 
 ### 🌙 컨셉
@@ -36,7 +36,7 @@
 
 ### 📖 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
-주인공 **베리(Berry)** 는 공룡 친구들의 의뢰를 받아<br>
+주인공 <strong>베리(Berry)</strong> 는 공룡 친구들의 의뢰를 받아<br>
 각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
 
 플레이어는 식물을 탐색하고 채집하며<br>
