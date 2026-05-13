@@ -3,8 +3,8 @@
 <table width="1200" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
-      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
-      <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
+      <font size="10" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="10" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
 
 플레이어는 식물을 탐색하고 채집하며<br>
-그 안에 담긴 이야기를 수집하게 됩니다.<br><br>
+그 안에 담긴 이야기를 수집하게 됩니다.<br>
 
 수집한 식물과 이야기는<br>
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
