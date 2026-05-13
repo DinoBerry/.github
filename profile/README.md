@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Dino%20Berry&fontFamily="nanumgothic"&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Dino%20Berry&fontFamily=nanumgothic&fontSize=60" />
 <br>
 
 <!-- 2. 상단 네모 상자: 너비 800px 고정 및 점선 테두리 -->
