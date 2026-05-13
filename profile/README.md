@@ -1,7 +1,13 @@
 <div align="center">
 
-| <center> <br> <font size="5" face="nanumgothic, malgun gothic, sans-serif"> ˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚ </font> <br> <font size="6" face="nanumgothic, malgun gothic, sans-serif"> **Dino Berry 다이노 베리** </font> <br> <br> </center> |
-| :--- |
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 30px 0;">
+      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -9,46 +15,46 @@
 
 ### 📌 프로젝트
 <font face="nanumgothic, malgun gothic, sans-serif">
-- **대회:** 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)
-- **팀:** 독각 (獨覺)
-- **팀장:** 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))
+- **대회:** 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
+- **팀:** 독각 (獨覺)<br>
+- **팀장:** 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))<br>
 - **팀원:** 구경선
 </font>
 
 ### 🎮 게임 개요
 <font face="nanumgothic, malgun gothic, sans-serif">
-- **장르:** 힐링 / 수집 / 채집 / 스토리 / 3D
-- **엔진:** Unreal Engine
+- **장르:** 힐링 / 수집 / 채집 / 스토리 / 3D<br>
+- **엔진:** Unreal Engine<br>
 - **배경:** 서울식물원
 </font>
 
 ### 🌙 컨셉
 <font face="nanumgothic, malgun gothic, sans-serif">
-밤이 되면 깨어나는 공룡들과 함께  
+밤이 되면 깨어나는 공룡들과 함께<br>
 식물에 담긴 추억을 수집하는 힐링 탐험 게임
 </font>
 
 ### 📖 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
-주인공 **베리(Berry)** 는 공룡 친구들의 의뢰를 받아  
-각자의 추억이 담긴 식물을 찾아줍니다.
+주인공 **베리(Berry)** 는 공룡 친구들의 의뢰를 받아<br>
+각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
 
-플레이어는 식물을 탐색하고 채집하며  
-그 안에 담긴 이야기를 수집하게 됩니다.
+플레이어는 식물을 탐색하고 채집하며<br>
+그 안에 담긴 이야기를 수집하게 됩니다.<br><br>
 
-수집한 식물과 이야기는  
+수집한 식물과 이야기는<br>
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
 </font>
 
 ### ✨ 특징
 <font face="nanumgothic, malgun gothic, sans-serif">
-- 공룡 의뢰 기반 탐험 및 채집
-- 식물 + 스토리 수집 시스템
-- 다이어리 커스터마이징
+- 공룡 의뢰 기반 탐험 및 채집<br>
+- 식물 + 스토리 수집 시스템<br>
+- 다이어리 커스터마이징<br>
 - 실제 식물 기반 도감 콘텐츠
 </font>
 
 ### 🎯 한 줄 소개
 <font face="nanumgothic, malgun gothic, sans-serif">
-**공룡과 함께, 식물에 담긴 추억을 모으는 밤의 힐링 게임**
+<strong>공룡과 함께, 식물에 담긴 추억을 모으는 밤의 힐링 게임</strong>
 </font>
