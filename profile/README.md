@@ -1,9 +1,10 @@
 <div align="center">
 
-<table width="150%">
+<!-- border-style: dashed (점선), border-color: 색상코드, border-width: 두께 -->
+<table width="800" style="border: 3px dashed #76BA99; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 30px 0;">
-      <font size="10" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
+      <font size="5" face="nanumgothic, malgun gothic, sans-serif">˚ ༘ 🦖𖦹⋆🦪｡˚ ༘ 🦕𖦹⋆｡˚</font><br>
       <font size="6" face="nanumgothic, malgun gothic, sans-serif"><strong>Dino Berry 다이노 베리</strong></font>
     </td>
   </tr>
@@ -16,7 +17,7 @@
 ### 📌 프로젝트
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>대회:</strong> 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
-- <strong>팀:</strong>독각 (獨覺)<br>
+- <strong>팀:</strong> 독각 (獨覺)<br>
 - <strong>팀장:</strong> 하고은 ([blueprintbake@gmail.com](mailto:blueprintbake@gmail.com))<br>
 - <strong>팀원:</strong> 구경선
 </font>
@@ -25,7 +26,7 @@
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>장르:</strong> 힐링 / 수집 / 채집 / 스토리 / 3D<br>
 - <strong>엔진:</strong> Unreal Engine<br>
-- <strong>배경:<strong> 서울식물원
+- <strong>배경:</strong> 서울식물원
 </font>
 
 ### 🌙 컨셉
