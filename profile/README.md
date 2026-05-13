@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Blur 헤더 (Dino Berry) -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Segoe%UI&stroke=b6d7a8&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2&height=300&section=header&text=Dino%20Berry&fontFamily=Helvetica%Neue&stroke=b6d7a8&fontSize=50" />
 <br>
 
   <tr>
@@ -16,7 +16,7 @@
 <br>
 
 
-<h2> 📌 프로젝트 </h2>
+<h3> 📌 프로젝트 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>대회:</strong> 제 1회 서울 플레이업 AI 게임 챌린지 (SBA × NC AI)<br>
 - <strong>팀:</strong> 독각 (獨覺)<br>
@@ -24,20 +24,20 @@
 - <strong>팀원:</strong> 구경선
 </font>
 
-### 🎮 게임 개요
+<h3> 🎮 게임 개요 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 - <strong>장르:</strong> 힐링 / 수집 / 채집 / 스토리 / 3D<br>
 - <strong>엔진:</strong> Unreal Engine<br>
 - <strong>배경:</strong> 서울식물원
 </font>
 
-### 🌙 컨셉
+<h3> 🌙 컨셉 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 밤이 되면 깨어나는 공룡들과 함께<br>
 식물에 담긴 추억을 수집하는 힐링 탐험 게임
 </font>
 
-### 📖 소개
+<h3> 📖 소개 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 주인공 <strong>베리(Berry)</strong>는 공룡 친구들의 의뢰를 받아<br>
 각자의 추억이 담긴 식물을 찾아줍니다.<br><br>
@@ -49,7 +49,7 @@
 다이어리와 식물도감에 기록되고 자유롭게 꾸밀 수 있습니다.
 </font>
 
-### ✨ 특징
+<h3> ✨ 특징 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 - 공룡 의뢰 기반 탐험 및 채집<br>
 - 식물 + 스토리 수집 시스템<br>
@@ -59,7 +59,7 @@
 
 <div style="border-top: 2px dashed #76BA99; width: 100%; margin: 25px 0;"></div>
 
-### 🎯 한 줄 소개
+<h3> 🎯 한 줄 소개 </h3>
 <font face="nanumgothic, malgun gothic, sans-serif">
 <strong>공룡과 함께, 식물에 담긴 추억을 모으는 밤의 힐링 게임</strong>
 </font>
